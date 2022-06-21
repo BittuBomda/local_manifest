@@ -4,6 +4,9 @@
         <remote name="pj"
           fetch="https://github.com/pjgowtham" />
         
+        <remote name="los"
+          fetch="https://github.com/LineageOS" />
+        
         <remote name="me"
           fetch="https://github.com/BittuBomda" />
         
@@ -15,6 +18,6 @@
         
   <project path="kernel/oplus/sm8350" name="android_kernel_oplus_sm8350" remote="pj" revision="lineage-19.1-RMX3360" />
         
-  <project path="hardware/oplus" name="android_hardware_oplus" remote="pj" revision="change-328857"/>
+  <project path="hardware/oplus" name="android_hardware_oplus" remote="los" revision="lineage-19.1"/>
       
 </manifest>
