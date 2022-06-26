@@ -4,6 +4,9 @@
         <remote name="pj"
           fetch="https://github.com/pjgowtham" />
         
+        <remote name="los"
+          fetch="https://github.com/LineageOS" />
+        
         <remote name="me"
           fetch="https://github.com/BittuBomda" />
         
